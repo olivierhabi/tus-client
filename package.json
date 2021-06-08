@@ -9,7 +9,11 @@
   },
   "dependencies": {
     "next": "10.2.3",
+    "next-connect": "^0.10.1",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "tus-js-client": "^2.3.0",
+    "tus-node-server": "^0.3.2",
+    "use-tus": "^0.2.3"
   }
 }
